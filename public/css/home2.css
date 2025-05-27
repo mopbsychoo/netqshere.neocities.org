@@ -13,7 +13,7 @@ nav {
     left: 980px;
     top: 410px;
     z-index: 1;
-    border-image: url(images/pixelborder.png) 8 fill round;
+    border-image: url(/public/images/pixelborder.png) 8 fill round;
 }
 
 nav iframe {
